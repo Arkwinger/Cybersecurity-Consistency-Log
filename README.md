@@ -1,13 +1,19 @@
 #  TryHackMe Consistency Tracker
 
-This repository documents my cybersecurity learning streaks through TryHackMe from 2022 to present. Each calendar screenshot represents dedication to daily practice and skill growth in offensive and defensive security.
+This repository showcases my cybersecurity learning consistency on TryHackMe from 2022 to the present. Each calendar screenshot represents daily effort, hands-on exploration, and skill development across offensive and defensive security disciplines.
+
+While there are gaps in some streaks, those periods weren’t idle — they were spent preparing for certifications, deep-diving into specific topics, and expanding my understanding of the field through rigorous study.
+
+I believe that cybersecurity isn’t just about finishing labs — it’s about showing up consistently, evolving with new technologies, and staying curious. Whether I’m analyzing a vulnerability, decoding a packet, or studying for an exam, I'm always pushing forward
+
+(Although THM is not always credible, I am proud of my consistency with learning)
+
+
 
 ## 🖼 Progress Calendars
 
-[![2022 Calendar](screenshots/calender-2022.png)](screenshots/calender-2022.png)
 
-[![2023 Calendar](screenshots/calender-2023.png)](screenshots/calender-2023.png)
-
-[![2024 Calendar](screenshots/calender-2024.png)](screenshots/calender-2024.png)
-
-[![2025 Calendar](screenshots/calender-2025.png)](screenshots/calender-2025.png)
+[![2022 Calendar](screenshots/calendar-2022.png)](screenshots/calendar-2022.png)
+[![2023 Calendar](screenshots/calendar-2023.png)](screenshots/calendar-2023.png)
+[![2024 Calendar](screenshots/calendar-2024.png)](screenshots/calendar-2024.png)
+[![2025 Calendar](screenshots/calendar-2025.png)](screenshots/calendar-2025.png)
