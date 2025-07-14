@@ -10,3 +10,5 @@ This repository documents my cybersecurity learning streaks through TryHackMe fr
 - **2025**: [View](screenshots/calendar-2025.png)
 
 [![Calendar 2025](screenshots/calendar-2025.png)](screenshots/calendar-2025.png)
+
+[View 2025 Calendar](screenshots/calendar-2025.png)
