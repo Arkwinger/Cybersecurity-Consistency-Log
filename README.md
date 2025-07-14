@@ -4,3 +4,4 @@ This repository documents my cybersecurity learning streaks through TryHackMe fr
 
 ##  Progress Calendars
 
+[View 2025 Calendar](screenshots/calendar-2025.png)
