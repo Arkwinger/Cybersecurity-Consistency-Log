@@ -1,4 +1,4 @@
-#  TryHackMe Consistency Tracker
+#  Consistency Tracker
 
 This repository showcases my cybersecurity learning consistency on TryHackMe from 2022 to the present. Each calendar screenshot represents daily effort, hands-on exploration, and skill development across offensive and defensive security disciplines.
 
