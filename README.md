@@ -10,7 +10,7 @@ I believe that cybersecurity isn’t just about finishing labs — it’s about 
 
 
 
-## 🖼 Progress Calendars
+##  Progress Calendars
 
 
 [![2022 Calendar](screenshots/calendar-2022.png)](screenshots/calendar-2022.png)
